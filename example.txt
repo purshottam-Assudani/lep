@@ -1,1 +1,1 @@
-Hello, this is modified.
+Hello, this is an example file.
